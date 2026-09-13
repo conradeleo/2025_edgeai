@@ -1,1 +1,1 @@
-# 2025_edgeai
+# 2025_nycu_edgeai
